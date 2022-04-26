@@ -1,5 +1,5 @@
 # scala-practice
-## Repositorio de prácticas de Scala
+### Repositorio de prácticas de Scala
 Bibliografía utilizada:
 - Get Programming with Scala de *Daniela Sfregola* 
 - Introduction to the Art of Programming Using Scala de *Mark C. Lewis*
